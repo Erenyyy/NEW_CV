@@ -1,0 +1,31 @@
+#slider {
+  margin-left: 100px;
+  width: 88%;
+  background-color: black;
+}
+
+#excel-logo, #python-logo, #js-logo, #html-logo, #sql-logo, #sw-logo, #node-logo, #gurobi-logo, #xpress-logo, #gurobi-logo {
+  width: 25px;
+  height: 25px;
+}
+
+#js-logo {
+  border-radius: 50%;
+}
+
+#gurobi-logo {
+  height: 50px;
+  padding-bottom: 25px;
+}
+
+#excel-logo:hover, #python-logo:hover, #js-logo:hover, #html-logo:hover, #sql-logo:hover, #sw-logo:hover, #node-logo:hover, #xpress-logo:hover, #gurobi-logo:hover{
+  width: 45px;
+  height: 45px;
+}
+
+#gurobi-logo:hover {
+  width: 45px;
+  height: 70px;
+  padding-bottom: 25px;
+}
+

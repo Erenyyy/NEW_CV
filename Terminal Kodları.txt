@@ -1,0 +1,12 @@
+Wındows Terminal Kodları:
+*ls = dosyaları gösterir
+*gwd = nerede olduğunu gösterir (hangi dosya vs.)
+*cd ... (... yerine ilerlemek istediğin dosyayı yazarsın)
+*cd .. (cd sonrası iki nokta koyarsak bi geriye gideriz)
+*cd /(herhangi bir path) = belirttiğin path'e gider. absolute bir ifadedir
+*mkdir = yeni klasör oluşturur
+*ls'in yanına bazı şeyler ekleyip farklı sonuçlar alabiliyoruz (MAN pages'e bakabilirsin)
+*touch.(dosya türü) = yeni dosya oluşturur
+*rm (dosya adı).(dosya türü) = dosyaları siler 
+*rm -rf (klasör adı) = iç içe geçmiş şeyleri siler
+*clear = ekranı temizler

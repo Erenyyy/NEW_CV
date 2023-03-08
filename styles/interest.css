@@ -1,0 +1,47 @@
+
+#chess-logo, #code-logo, #music-logo, #film-logo, #engineer-logo, #crypto-logo {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+   
+}
+
+#deutsch-logo, #english-logo, #turkish-logo {
+    width: 145px;
+    height: 145px;
+    border-radius: 50%;
+}
+
+
+#dark-mode:checked + label + body {
+    background-color: orange;
+}
+#dark-mode:checked + .navbar.scrolled {
+    background: green;
+    transition: background 500ms;
+}
+
+#dark-mode:checked + #bg-info {
+    color: black;
+}
+#dark-mode:checked + #lang-sect {
+
+    background-color: yellow;
+}
+#dark-mode:checked + #sect1 {
+    background-color: aqua;
+    
+}
+#dark-mode:checked + #sect2 {
+    background-color: #212131;
+    
+}
+#dark-mode:checked + #sect-interest {
+    background-color: #293233;
+}
+#dark-mode:checked + #sect-courses {
+    background-color: #332027;
+}
+#dark-mode:checked + #last-part-infos {
+    color: black;
+}
